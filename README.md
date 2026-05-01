@@ -26,24 +26,10 @@ Full Stack Developer skilled in JavaScript, React, Node.js, and Express, with ex
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vishalbharadwaj27&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalbharadwaj27&theme=tokyonight" />
-</p>
-
 
 ## 💼 Featured Projects
 
-### 🚀 Task-Trailblazer
-- Advanced task management platform built with Next.js + TypeScript  
-- Modular architecture with scalable UI components  
-- API-driven workflows and real-time state handling  
 
-🔗 https://github.com/Vishalbharadwaj27/Task-Trailblazer
-
----
 
 ### 📊 One-App Premium Dashboard
 - Full-stack productivity dashboard with multiple modules  
@@ -54,12 +40,38 @@ Full Stack Developer skilled in JavaScript, React, Node.js, and Express, with ex
 
 ---
 
+### 🚀 Task-Trailblazer
+- Advanced task management platform built with Next.js + TypeScript  
+- Modular architecture with scalable UI components  
+- API-driven workflows and real-time state handling  
+
+🔗 https://github.com/Vishalbharadwaj27/Task-Trailblazer
+
+---
+
 ### 🏫 Campus Management System
 - Structured system for managing academic workflows  
 - Scalable frontend architecture with reusable components  
 - Simulates real-world multi-user system  
 
 🔗 https://github.com/Vishalbharadwaj27/Campus-Management-App
+
+---
+
+
+## 💡 Currently Working On
+
+- Building scalable full-stack applications  
+- Improving UI/UX and backend architecture  
+- Exploring AI-powered features in web apps  
+
+---
+
+## 🎯 Open To Opportunities
+
+- Software Engineer (Full Stack) roles  
+- Internship / Entry-level positions  
+- Open to collaboration on real-world projects  
 
 ---
 
@@ -74,3 +86,7 @@ Full Stack Developer skilled in JavaScript, React, Node.js, and Express, with ex
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-black?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
+
+
+
+
