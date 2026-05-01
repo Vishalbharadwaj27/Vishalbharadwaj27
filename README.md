@@ -10,15 +10,18 @@ Full Stack Developer skilled in JavaScript, React, Node.js, and Express, with ex
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
 ---
@@ -30,15 +33,6 @@ Full Stack Developer skilled in JavaScript, React, Node.js, and Express, with ex
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalbharadwaj27&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalbharadwaj27&theme=tokyo-night" />
-</p>
-
----
 
 ## 💼 Featured Projects
 
@@ -74,5 +68,9 @@ Full Stack Developer skilled in JavaScript, React, Node.js, and Express, with ex
 <p align="center">
 <a href="https://www.linkedin.com/in/vishal-m-bharadwaj-059b5a353/">
 <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Bharadwaj-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://vishal-m-bharadwaj-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-black?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
