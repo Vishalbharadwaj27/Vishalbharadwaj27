@@ -46,7 +46,7 @@ Full Stack Developer specializing in JavaScript, React, Node.js, and Express, wi
 
 🔗 https://github.com/Vishalbharadwaj27/SynsSpace
 
----
+
 
 ### 📊 One-App Premium Dashboard
 - Full-stack productivity dashboard with secure JWT authentication and modular widget architecture
@@ -55,7 +55,7 @@ Full Stack Developer specializing in JavaScript, React, Node.js, and Express, wi
 
 🔗 https://github.com/Vishalbharadwaj27/One-App-Premium-Dashboard
 
----
+
 
 ### 🩺 Doc Assist
 - Full-stack healthcare management application for patient records, appointments, and medical notes
@@ -63,8 +63,8 @@ Full Stack Developer specializing in JavaScript, React, Node.js, and Express, wi
 - Designed with scalable architecture, offline support, and production-ready project structure
 
 🔗 https://github.com/Vishalbharadwaj27/Doc
----
 
+---
 
 ## 💡 Currently Working On
 
