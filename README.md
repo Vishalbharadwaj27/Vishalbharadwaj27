@@ -2,7 +2,9 @@
 
 <p align="center">
 
-Full Stack Developer with expertise in JavaScript, React, Node.js, and Express. Proven experience designing and implementing scalable, production-ready web applications. Specialized in frontend architecture, REST API development, secure authentication systems, and responsive user interface design. Committed to delivering maintainable code, high-performance solutions, and seamless user experiences across full-stack development.
+Full Stack Developer | React.js | Node.js | JavaScript | Building Scalable Web Apps | AI-Based Projects
+
+I'm an Associate Software Engineer at Noesys Software Pvt. Ltd., working primarily with TypeScript to build and maintain software applications. I enjoy writing clean, type-safe code and learning how well-structured applications come together, from the components users see to the logic behind them. My technical foundation includes TypeScript, React, C#, and .NET Framework.
 
 </p>
 
@@ -77,18 +79,33 @@ Healthcare management system designed for efficient patient record management, a
 
 ## Currently Working On
 
-- Building production-ready full-stack applications
-- Learning Next.js and advanced React patterns
-- Strengthening backend architecture and system design
-- Exploring AI-powered features for modern web applications
+- Building reliable, maintainable solutions at Noesys Software
+- Writing type-safe applications with TypeScript and React
+- Learning how well-structured applications are built, deployed, and maintained
+- Exploring AI-based projects and Salesforce Agentforce
 
 ---
 
-## Open To Opportunities
+## Experience
 
-- Software Engineer (Full Stack) roles
-- Internship and Entry-level positions
-- Collaboration on real-world projects
+**Associate Software Engineer**, Noesys Software Pvt. Ltd. (August 2026 - Present)
+
+**Full Stack Developer Intern**, QuGates Technologies, Bengaluru (January 2026 - June 2026)
+- Built reusable UI components using React, improving development efficiency and scalability
+- Improved application responsiveness and usability across multiple modules
+- Integrated REST APIs and contributed to end-to-end feature development
+- Worked on debugging, state management, and performance optimization
+
+---
+
+## Education & Certifications
+
+**Bachelor of Engineering, Information Science**, Acharya Institute of Technology, Visvesvaraya Technological University (2022 - 2026)
+
+- DevOps Foundations
+- Connect Data Cloud to Agentforce and Prompt Builder
+- Quick Start: Build a Service Agent with Agentforce
+- Career Essentials in Generative AI by Microsoft and LinkedIn
 
 ---
 
@@ -102,7 +119,7 @@ Healthcare management system designed for efficient patient record management, a
 
 </a>
 
-<a href="https://vishal-m-bharadwaj-portfolio.vercel.app/">
+<a href="https://vishal-portfolio-beta.vercel.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-black?style=for-the-badge&logo=vercel"/>
 
